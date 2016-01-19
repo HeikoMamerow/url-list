@@ -21,5 +21,5 @@ This section describes how to install the plugin and get it working.
 
 ## Changelog
 
-= 1.0 =
+### 1.0
 * Collect all actual published posts & pages as txt file
