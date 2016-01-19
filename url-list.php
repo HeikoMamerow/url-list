@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Url list
  * Plugin URI:        https://github.com/HeikoMamerow/url-list
- * Description:       This plugin creates a list of all pots & pages from this website in a txt file.
+ * Description:       This plugin creates a list of all actual published posts & pages from this website in a txt file.
  * Version:           1.0.0
  * Author:            Heiko Mamerow
  * Author URI:        https://heikomamerow.de
