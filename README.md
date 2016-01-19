@@ -17,7 +17,9 @@ This section describes how to install the plugin and get it working.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Screenshots
+![Admin area](/assets/screenshot-1.png)
 
+![Txt file](/assets/screenshot-2.png)
 
 ## Changelog
 
